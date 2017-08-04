@@ -1,0 +1,29 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "forum app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadhivijay/ps-forum-app-backend.git"
+  },
+  "keywords": [
+    "forum"
+  ],
+  "author": "aadhivijay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadhivijay/ps-forum-app-backend/issues"
+  },
+  "homepage": "https://github.com/aadhivijay/ps-forum-app-backend#readme",
+  "dependencies": {
+    "good": "^7.2.0",
+    "good-console": "^6.4.0",
+    "good-squeeze": "^5.0.2",
+    "hapi": "^16.5.2",
+    "inert": "^4.2.1"
+  }
+}
